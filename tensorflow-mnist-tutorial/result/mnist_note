@@ -1,0 +1,231 @@
+mnist_1.0_softmax.py
+1850: ********* epoch 4 ********* test accuracy:0.919 test loss: 28.181969
+1860: accuracy:0.95 loss: 24.111448
+1870: accuracy:0.96 loss: 18.161442
+1880: accuracy:0.92 loss: 25.80534
+1890: accuracy:0.92 loss: 19.525377
+1900: accuracy:0.95 loss: 17.979744
+1900: ********* epoch 4 ********* test accuracy:0.9184 test loss: 28.225332
+1910: accuracy:0.96 loss: 19.254333
+1920: accuracy:0.89 loss: 36.017223
+1930: accuracy:0.89 loss: 26.255283
+1940: accuracy:0.95 loss: 35.534332
+1950: accuracy:0.92 loss: 33.01998
+1950: ********* epoch 4 ********* test accuracy:0.923 test loss: 27.671608
+1960: accuracy:0.91 loss: 44.129547
+1970: accuracy:0.96 loss: 19.209785
+1980: accuracy:0.93 loss: 28.793667
+1990: accuracy:0.88 loss: 28.635902
+2001: accuracy:0.89 loss: 30.95081
+2001: ********* epoch 4 ********* test accuracy:0.9221 test loss: 27.892525
+
+mnist_1.0_softmax_2_sigmold.py
+Fail
+1850: ********* epoch 4 ********* test accuracy:0.6619 test loss: 0.049075022
+1860: accuracy:0.64 loss: 0.06581724
+1870: accuracy:0.68 loss: 0.0437366
+1880: accuracy:0.65 loss: 0.049800534
+1890: accuracy:0.67 loss: 0.042475507
+1900: accuracy:0.68 loss: 0.043330967
+1900: ********* epoch 4 ********* test accuracy:0.6618 test loss: 0.04794023
+1910: accuracy:0.7 loss: 0.04044902
+1920: accuracy:0.65 loss: 0.100667275
+1930: accuracy:0.72 loss: 0.05675367
+1940: accuracy:0.6 loss: 0.06792784
+1950: accuracy:0.72 loss: 0.06873086
+1950: ********* epoch 4 ********* test accuracy:0.6604 test loss: 0.046809856
+1960: accuracy:0.6 loss: 0.079585984
+1970: accuracy:0.73 loss: 0.031234784
+1980: accuracy:0.59 loss: 0.07390825
+1990: accuracy:0.64 loss: 0.059563093
+2001: accuracy:0.63 loss: 0.03438331
+2001: ********* epoch 4 ********* test accuracy:0.6601 test loss: 0.04579073
+
+mnist_1.0_softmax_mse.py
+1850: ********* epoch 4 ********* test accuracy:0.9233 test loss: 12.056559
+1860: accuracy:0.95 loss: 10.666175
+1870: accuracy:0.96 loss: 7.986787
+1880: accuracy:0.94 loss: 11.359916
+1890: accuracy:0.93 loss: 10.512563
+1900: accuracy:0.96 loss: 8.332592
+1900: ********* epoch 4 ********* test accuracy:0.9232 test loss: 12.01261
+1910: accuracy:0.92 loss: 9.497993
+1920: accuracy:0.92 loss: 14.609294
+1930: accuracy:0.9 loss: 12.64152
+1940: accuracy:0.93 loss: 12.818895
+1950: accuracy:0.91 loss: 11.8226185
+1950: ********* epoch 4 ********* test accuracy:0.9253 test loss: 11.878919
+1960: accuracy:0.92 loss: 14.814978
+1970: accuracy:0.96 loss: 7.868303
+1980: accuracy:0.93 loss: 12.175708
+1990: accuracy:0.9 loss: 15.627325
+2001: accuracy:0.89 loss: 16.434912
+2001: ********* epoch 4 ********* test accuracy:0.9243 test loss: 11.877895
+
+
+mnist_2.0_five_layers_sigmoid.py
+9700: ********* epoch 17 ********* test accuracy:0.974 test loss: 11.932033
+9720: accuracy:1.0 loss: 1.6424718 (lr:0.003)
+9740: accuracy:1.0 loss: 0.15983826 (lr:0.003)
+9760: accuracy:0.99 loss: 2.6151829 (lr:0.003)
+9780: accuracy:1.0 loss: 1.1087824 (lr:0.003)
+9800: accuracy:0.98 loss: 3.6030464 (lr:0.003)
+9800: ********* epoch 17 ********* test accuracy:0.9726 test loss: 12.177663
+9820: accuracy:0.99 loss: 2.669736 (lr:0.003)
+9840: accuracy:1.0 loss: 0.07471539 (lr:0.003)
+9860: accuracy:1.0 loss: 0.18869302 (lr:0.003)
+9880: accuracy:0.99 loss: 1.3894125 (lr:0.003)
+9900: accuracy:0.99 loss: 1.5895637 (lr:0.003)
+9900: ********* epoch 17 ********* test accuracy:0.976 test loss: 11.307663
+9920: accuracy:1.0 loss: 0.09113276 (lr:0.003)
+9940: accuracy:0.99 loss: 1.3725677 (lr:0.003)
+9960: accuracy:1.0 loss: 0.26347452 (lr:0.003)
+9980: accuracy:1.0 loss: 0.1314914 (lr:0.003)
+10001: accuracy:0.99 loss: 1.8557546 (lr:0.003)
+10001: ********* epoch 17 ********* test accuracy:0.9718 test loss: 13.15253
+
+mnist_1.0_softmax_sigmoid_cross_entropy.py
+
+1850: ********* epoch 4 ********* test accuracy:0.9124 test loss: 665.48114
+1860: accuracy:0.92 loss: 665.9773
+1870: accuracy:0.94 loss: 662.37805
+1880: accuracy:0.95 loss: 664.1586
+1890: accuracy:0.92 loss: 665.82837
+1900: accuracy:0.96 loss: 662.0183
+1900: ********* epoch 4 ********* test accuracy:0.9155 test loss: 665.34576
+1910: accuracy:0.93 loss: 664.188
+1920: accuracy:0.9 loss: 667.6134
+1930: accuracy:0.89 loss: 666.16895
+1940: accuracy:0.91 loss: 666.28345
+1950: accuracy:0.88 loss: 666.3889
+1950: ********* epoch 4 ********* test accuracy:0.9164 test loss: 665.2863
+1960: accuracy:0.91 loss: 666.57416
+1970: accuracy:0.96 loss: 661.66046
+1980: accuracy:0.91 loss: 666.2013
+1990: accuracy:0.88 loss: 668.3268
+2001: accuracy:0.88 loss: 668.85846
+2001: ********* epoch 4 ********* test accuracy:0.915 test loss: 665.25684
+
+mnist_1.0_softmax_softmax_cross_entropy.py 
+1850: ********* epoch 4 ********* test accuracy:0.9225 test loss: 1543.767
+1860: accuracy:0.95 loss: 1524.5458
+1870: accuracy:0.96 loss: 1510.2869
+1880: accuracy:0.94 loss: 1530.9933
+1890: accuracy:0.93 loss: 1540.6177
+1900: accuracy:0.95 loss: 1515.5933
+1900: ********* epoch 4 ********* test accuracy:0.9242 test loss: 1542.1957
+1910: accuracy:0.95 loss: 1524.7167
+1920: accuracy:0.92 loss: 1561.6313
+1930: accuracy:0.91 loss: 1559.9905
+1940: accuracy:0.94 loss: 1540.1141
+1950: accuracy:0.91 loss: 1549.8595
+1950: ********* epoch 4 ********* test accuracy:0.9248 test loss: 1541.4164
+1960: accuracy:0.92 loss: 1551.0168
+1970: accuracy:0.96 loss: 1510.4928
+1980: accuracy:0.94 loss: 1539.5574
+1990: accuracy:0.91 loss: 1565.8307
+2001: accuracy:0.9 loss: 1570.3218
+2001: ********* epoch 4 ********* test accuracy:0.9235 test loss: 1541.8356
+
+mnist_3.0_convolutional.py
+9900: ********* epoch 17 ********* test accuracy:0.9905 test loss: 5.5893497
+9910: accuracy:1.0 loss: 0.0006416201 (lr:0.00012114423)
+9920: accuracy:1.0 loss: 0.0024527293 (lr:0.000121038785)
+9930: accuracy:1.0 loss: 0.013670829 (lr:0.00012093385)
+9940: accuracy:1.0 loss: 0.032823093 (lr:0.00012082944)
+9950: accuracy:1.0 loss: 6.771028e-05 (lr:0.00012072555)
+9960: accuracy:1.0 loss: 0.0007374663 (lr:0.000120622186)
+9970: accuracy:1.0 loss: 0.0040312223 (lr:0.00012051933)
+9980: accuracy:1.0 loss: 0.0145015055 (lr:0.00012041699)
+9990: accuracy:1.0 loss: 0.03696369 (lr:0.000120315155)
+10001: accuracy:1.0 loss: 0.0030132548 (lr:0.00012020373)
+10001: ********* epoch 17 ********* test accuracy:0.9903 test loss: 5.419796
+max test accuracy: 0.9908
+
+mnist_3.1_convolutional_bigger_dropout.py
+9900: ********* epoch 17 ********* test accuracy:0.9914 test loss: 3.8723993
+9920: accuracy:1.0 loss: 0.0036078726 (lr:0.000121038785)
+9940: accuracy:1.0 loss: 0.034212653 (lr:0.00012082944)
+9960: accuracy:1.0 loss: 0.022219935 (lr:0.000120622186)
+9980: accuracy:1.0 loss: 0.019655045 (lr:0.00012041699)
+10001: accuracy:1.0 loss: 0.0015483148 (lr:0.00012020373)
+10001: ********* epoch 17 ********* test accuracy:0.9918 test loss: 3.851201
+
+
+tensorflow-mnist-tutorial/mnist_3.1_convolutional_bigger_nodropout.py
+9900: ********* epoch 17 ********* test accuracy:0.9906 test loss: 5.817987
+9920: accuracy:1.0 loss: 0.00067268865 (lr:0.000121038785)
+9940: accuracy:1.0 loss: 0.0069642398 (lr:0.00012082944)
+9960: accuracy:1.0 loss: 0.00018262296 (lr:0.000120622186)
+9980: accuracy:1.0 loss: 0.0026218616 (lr:0.00012041699)
+10001: accuracy:1.0 loss: 0.0036422492 (lr:0.00012020373)
+10001: ********* epoch 17 ********* test accuracy:0.9908 test loss: 5.7904916
+
+tensorflow-mnist-tutorial/mnist_3.1_convolutional_bigger_dropout_softmax1000.py
+9900: ********* epoch 17 ********* test accuracy:0.9903 test loss: 4.8379173
+9920: accuracy:1.0 loss: 0.0016836955 (lr:0.000121038785)
+9940: accuracy:1.0 loss: 0.014115831 (lr:0.00012082944)
+9960: accuracy:1.0 loss: 0.00048261153 (lr:0.000120622186)
+9980: accuracy:1.0 loss: 0.0012365088 (lr:0.00012041699)
+10001: accuracy:1.0 loss: 0.0008201403 (lr:0.00012020373)
+10001: ********* epoch 17 ********* test accuracy:0.9903 test loss: 4.7797737
+
+tensorflow-mnist-tutorial/mnist_3.1_convolutional_bigger_dropout_softmax500.py
+9900: ********* epoch 17 ********* test accuracy:0.9928 test loss: 3.4535573
+9920: accuracy:1.0 loss: 0.003907003 (lr:0.000121038785)
+9940: accuracy:1.0 loss: 0.009960746 (lr:0.00012082944)
+9960: accuracy:1.0 loss: 0.0028119974 (lr:0.000120622186)
+9980: accuracy:1.0 loss: 0.0027880403 (lr:0.00012041699)
+10001: accuracy:1.0 loss: 0.0013532613 (lr:0.00012020373)
+10001: ********* epoch 17 ********* test accuracy:0.9928 test loss: 3.462481
+
+mnist_4.0_batchnorm_five_layers_sigmoid.py	
+9900: ********* epoch 17 ********* test accuracy:0.9799 test loss: 7.487591
+9920: accuracy:1.0 loss: 0.22453 (lr:0.00010147543)
+9940: accuracy:1.0 loss: 0.35053393 (lr:0.00010144622)
+9960: accuracy:1.0 loss: 0.8269088 (lr:0.00010141758)
+9980: accuracy:1.0 loss: 0.42541158 (lr:0.00010138951)
+10001: accuracy:1.0 loss: 0.4400365 (lr:0.00010136063)
+10001: ********* epoch 17 ********* test accuracy:0.9799 test loss: 7.5138664
+
+mnist_4.1_batchnorm_five_layers_relu.py
+9900: ********* epoch 17 ********* test accuracy:0.9842 test loss: 6.978362
+9920: accuracy:1.0 loss: 0.025770389 (lr:0.00010147543)
+9940: accuracy:1.0 loss: 0.14719488 (lr:0.00010144622)
+9960: accuracy:1.0 loss: 0.077189155 (lr:0.00010141758)
+9980: accuracy:1.0 loss: 0.094262585 (lr:0.00010138951)
+10001: accuracy:1.0 loss: 0.06443556 (lr:0.00010136063)
+10001: ********* epoch 17 ********* test accuracy:0.9841 test loss: 6.9753275
+waits for figures
+
+mnist_4.2_batchnorm_convolutional.py
+9900: ********* epoch 17 ********* test accuracy:0.9957 test loss: 1.8050276
+9920: accuracy:1.0 loss: 0.011040301 (lr:0.00014058861)
+9940: accuracy:1.0 loss: 0.007851249 (lr:0.0001400844)
+9960: accuracy:1.0 loss: 0.005398093 (lr:0.00013958648)
+9980: accuracy:1.0 loss: 0.0181107 (lr:0.00013909474)
+10001: accuracy:1.0 loss: 0.0059026666 (lr:0.00013858498)
+10001: ********* epoch 17 ********* test accuracy:0.9954 test loss: 1.7729046
+
+tensorflow-mnist-tutorial/mnist_4.2_batchnorm_convolutional_dropoutlocation.py
+9993: accuracy:1.0 loss: 0.014807608 (lr:0.00013877837)
+9994: accuracy:1.0 loss: 0.015220251 (lr:0.00013875416)
+9995: accuracy:1.0 loss: 0.19708756 (lr:0.00013872993)
+9996: accuracy:1.0 loss: 0.022444427 (lr:0.00013870573)
+9997: accuracy:1.0 loss: 0.018467553 (lr:0.00013868154)
+9998: accuracy:1.0 loss: 0.016554095 (lr:0.00013865739)
+9999: accuracy:1.0 loss: 0.02154326 (lr:0.00013863323)
+10001: ********* epoch 17 ********* test accuracy:0.9953 test loss: 1.8005252
+
+tensorflow-mnist-tutorial/mnist_4.2_batchnorm_convolutional_batchsize33.py
+9900: ********* epoch 6 ********* test accuracy:0.9944 test loss: 0.5298483
+9920: accuracy:1.0 loss: 0.037320275 (lr:0.00014058861)
+9940: accuracy:1.0 loss: 0.013912448 (lr:0.0001400844)
+9960: accuracy:1.0 loss: 0.062446885 (lr:0.00013958648)
+9980: accuracy:1.0 loss: 0.11697284 (lr:0.00013909474)
+10001: accuracy:1.0 loss: 0.43883076 (lr:0.00013858498)
+10001: ********* epoch 6 ********* test accuracy:0.9943 test loss: 0.53242636
+
+tensorflow-mnist-tutorial/mnist_4.2_batchnorm_convolutional_batchsize200.py
+
+
