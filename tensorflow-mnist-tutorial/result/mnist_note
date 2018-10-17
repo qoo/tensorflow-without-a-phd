@@ -227,5 +227,13 @@ tensorflow-mnist-tutorial/mnist_4.2_batchnorm_convolutional_batchsize33.py
 10001: ********* epoch 6 ********* test accuracy:0.9943 test loss: 0.53242636
 
 tensorflow-mnist-tutorial/mnist_4.2_batchnorm_convolutional_batchsize200.py
+9900: ********* epoch 34 ********* test accuracy:0.9945 test loss: 3.9079018
+9920: accuracy:1.0 loss: 0.007515071 (lr:0.00014058861)
+9940: accuracy:1.0 loss: 0.0014377717 (lr:0.0001400844)
+9960: accuracy:1.0 loss: 0.0019759478 (lr:0.00013958648)
+9980: accuracy:1.0 loss: 0.0063399924 (lr:0.00013909474)
+10001: accuracy:1.0 loss: 0.011154098 (lr:0.00013858498)
+10001: ********* epoch 34 ********* test accuracy:0.9948 test loss: 3.881324
+
 
 
