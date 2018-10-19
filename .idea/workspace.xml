@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="738d88b4-7902-44ee-b9c8-e827785d6f88" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow-mnist-tutorial/result/mnist_note" afterPath="$PROJECT_DIR$/tensorflow-mnist-tutorial/result/mnist_note" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow-rnn-tutorial/tutorial/00_RNN_predictions_estimator_solution.ipynb" afterPath="$PROJECT_DIR$/tensorflow-rnn-tutorial/tutorial/00_RNN_predictions_estimator_solution.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,8 +93,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2141" />
-    <option name="y" value="568" />
+    <option name="x" value="129" />
+    <option name="y" value="228" />
     <option name="width" value="1537" />
     <option name="height" value="1015" />
   </component>
@@ -170,7 +168,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2141" y="568" width="1537" height="1015" extended-state="0" />
+    <frame x="129" y="228" width="1537" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
